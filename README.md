@@ -1,24 +1,24 @@
 # Hi, I'm Mughil 👋
 
-I'm a Computer Science student at the University of Georgia (graduating May 2027) focused on building practical AI, machine learning, and software systems.
+I'm a Computer Science student at the University of Georgia (graduating May 2027) focused on building practical AI, machine learning, and reliable software systems.
 
-### What I build
-- **Applied AI and agents:** production-oriented LLM workflows, evaluation, retrieval, and tool integration.
-- **Machine learning:** data pipelines, model evaluation, calibration, and reproducible experiments.
-- **Software engineering:** Python services, APIs, automation, and reliable developer tooling.
+### Featured projects
+- **[Distributed Workflow Engine](https://github.com/mughil05/distributed-workflow-engine)** — Distributed DAG orchestration with PostgreSQL task leases and fencing, optional Redis notifications, retries, crash recovery, FastAPI, and a React dashboard. Includes integration tests, chaos testing, and reproducible benchmarks.
+- **[Context-Aware AI Code Reviewer](https://github.com/mughil05/context-aware-code-review)** — Pull-request analysis combining repository-aware retrieval, static analysis, and LLM verification, evaluated on real-world PRs.
 
-### Featured work
-- **[Context-Aware AI Code Reviewer](https://github.com/mughil05/context-aware-code-review)** — PR review with repository retrieval, static-analysis evidence, LLM verification, and controlled evaluation.
-- **More projects coming soon** — I'm expanding my public portfolio with reproducible ML, backend, and data engineering projects.
+### What I work on
+- **Backend and distributed systems:** Python services, APIs, databases, concurrency, and reliability.
+- **Applied AI:** LLM agents, retrieval, evaluation, and tool integration.
+- **Machine learning:** Data pipelines, model evaluation, and reproducible experiments.
 
 ### Technologies
 **Languages:** Python, Java, SQL, JavaScript, C++  
-**AI / Data:** LangGraph, Snowflake, Azure ML, scikit-learn  
-**Engineering:** Git, GitHub Actions, FastAPI, PostgreSQL, Docker
+**Backend:** FastAPI, PostgreSQL, Redis, Docker, GitHub Actions  
+**AI / Data:** LangGraph, Snowflake, Azure ML, scikit-learn
 
 ### Currently
-- Data science / AI engineering internship experience at Siemens.
-- Exploring new-grad software engineering, AI/ML engineering, and data engineering roles for 2027.
-- Interested in building useful systems with measurable results.
+- Data Scientist Intern at Siemens, working on enterprise AI and data systems.
+- Completing my B.S. in Computer Science at UGA.
+- Exploring 2027 new-grad software engineering, AI/ML engineering, and data engineering opportunities.
 
 [Explore my repositories](https://github.com/mughil05?tab=repositories)
